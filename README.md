@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
