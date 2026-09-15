@@ -1,18 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
+        int ans = 0;
 
-
-        for(int i = 0; i < nums.length; i++){
-            int count = 0;
-            for(int j = 0; j < nums.length; j++){
-                if(i != j && nums[i] == nums[j]){
-                    count++;
-                }
-            }
-            if(count == 0){
-                return nums[i];
-            }
+        for(int ele : nums){
+            ans ^= ele;
         }
-        return -1;
+        return ans;
         }
     }
