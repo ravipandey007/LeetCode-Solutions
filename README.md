@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
