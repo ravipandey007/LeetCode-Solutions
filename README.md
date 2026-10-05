@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
