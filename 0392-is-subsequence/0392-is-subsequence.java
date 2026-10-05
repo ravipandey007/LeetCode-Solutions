@@ -7,12 +7,11 @@ class Solution {
 
        while(i < s.length() && j < t.length()){
         if(s.charAt(i) == t.charAt(j)){
-            ans += t.charAt(j);
             i++;
         }
         j++;
        }
-       if (s.equals(ans)){
+       if (i == s.length()){
         return true;
        }
        else
