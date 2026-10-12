@@ -6,13 +6,7 @@ class Solution {
 
         for(int i = 0; i < nums.length; i++){
             sum += nums[i];
-
-             if (sum >= target) {
-                if ((i - l) + 1 < length) {
-                    length = (i - l) + 1;
-                }
-            }
-
+            
              while (sum >= target) {
                 if ((i - l) + 1 < length){
                 length = i - l + 1;
