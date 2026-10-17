@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,12 +65,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
