@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -146,4 +147,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
