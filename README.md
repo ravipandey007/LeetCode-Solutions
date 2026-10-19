@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2235-add-two-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
