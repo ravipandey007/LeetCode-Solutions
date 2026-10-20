@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2235-add-two-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
