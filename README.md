@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2235-add-two-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Queue
