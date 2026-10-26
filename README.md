@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
