@@ -1,24 +1,37 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         int left = 0;
-        int maxLen = 0;
+int maxLen = 0;
 
-        HashMap<Integer, Integer>map = new HashMap<>();
+int first = -1;
+int second = -1;
+int count = 0;
 
-        for(int right = 0; right < fruits.length; right++){
-            map.put(fruits[right], map.getOrDefault(fruits[right], 0)+1);
+for (int i = 0; i < fruits.length; i++) {
+    int fruit = fruits[i];
 
-            while(map.size() > 2){
-                map.put(fruits[left], map.get(fruits[left])-1);
-
-                if(map.get(fruits[left]) == 0){
-                    map.remove(fruits[left]);
-                }
-                left++;
-            }
-            maxLen = Math.max(maxLen, right - left +1);
-
+    if (fruit == first || fruit == second) {
+        if (i > 0 && fruit == fruits[i - 1]) {
+            count++;
+        } else {
+            count = 1;
         }
-        return maxLen;
+    } else if (first == -1) {
+        first = fruit;
+        count = 1;
+    } else if (second == -1) {
+        second = fruit;
+        count = 1;
+    } else {
+        left = i - count;
+        first = fruits[i - 1];
+        second = fruit;
+        count = 1;
+    }
+
+    maxLen = Math.max(maxLen, i - left + 1);
+}
+
+return maxLen;
     }
 }
