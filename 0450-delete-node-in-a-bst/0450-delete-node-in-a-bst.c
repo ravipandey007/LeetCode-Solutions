@@ -7,14 +7,11 @@
  * };
  */
 
- struct TreeNode * findMin(struct TreeNode* root){
-        if(root == NULL){
-            return NULL;
-        }
-        else if(root->left != NULL){
-            return findMin(root->left);
-        }
-        return root;
+ struct TreeNode * findMin(struct TreeNode* node){
+        while (node->left != NULL) {
+        node = node->left;
+    }
+    return node;
     }
 
 struct TreeNode* deleteNode(struct TreeNode* root, int key) {
