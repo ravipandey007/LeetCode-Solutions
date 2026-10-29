@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
