@@ -40,6 +40,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -81,6 +82,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -280,6 +282,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
