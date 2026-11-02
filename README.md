@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -72,6 +73,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -283,6 +285,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
