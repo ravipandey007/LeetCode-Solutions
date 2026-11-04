@@ -225,6 +225,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -241,6 +242,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -259,6 +261,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -279,6 +282,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
