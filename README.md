@@ -40,6 +40,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -81,6 +82,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2235-add-two-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -90,6 +92,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -105,6 +108,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -179,6 +183,7 @@
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +314,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
