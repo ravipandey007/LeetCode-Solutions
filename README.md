@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -56,6 +57,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
