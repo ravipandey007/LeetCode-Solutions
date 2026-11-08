@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -182,6 +183,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
