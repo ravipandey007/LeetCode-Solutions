@@ -9,15 +9,16 @@ class Solution {
         }
         Arrays.sort(cars, (a, b)-> Integer.compare(b[0], a[0]));
 
-        Stack<Double> st = new Stack<>();
+        int count = 0; 
+        double prevTime = 0;
         for(int i = 0; i < n; i++){
             double t = (double)(target - cars[i][0])/ cars[i][1];
 
-            if(!st.isEmpty() && t <= st.peek()){
-                continue;
+            if(t > prevTime){
+                count++;
+                prevTime = t;
             }
-            st.push(t);
         }
-        return st.size();
+        return count;
     }
 }
