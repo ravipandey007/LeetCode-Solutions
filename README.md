@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -127,6 +128,7 @@
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -236,6 +238,7 @@
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +305,7 @@
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
