@@ -95,6 +95,7 @@
 | [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
@@ -220,6 +221,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
