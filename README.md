@@ -35,6 +35,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -215,6 +216,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
@@ -245,6 +247,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Design
