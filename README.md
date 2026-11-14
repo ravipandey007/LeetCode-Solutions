@@ -80,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -135,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
@@ -192,6 +194,7 @@
 | [0042-trapping-rain-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
@@ -383,6 +386,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,4 +400,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
