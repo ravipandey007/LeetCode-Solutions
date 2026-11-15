@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -84,6 +85,7 @@
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
@@ -123,6 +125,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -138,6 +141,7 @@
 | [0075-sort-colors](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -150,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -375,6 +380,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -404,4 +410,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
