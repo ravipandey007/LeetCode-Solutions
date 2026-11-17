@@ -16,6 +16,7 @@ class Solution {
             i++;
         }
 
+        //if loop cannot find any --
         while(k > 0){
             sb.deleteCharAt(sb.length() - 1);
             k--;
