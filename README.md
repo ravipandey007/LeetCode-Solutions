@@ -134,6 +134,7 @@
 | [0496-next-greater-element-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -147,6 +148,7 @@
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0853-car-fleet](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -160,6 +162,7 @@
 | [0169-majority-element](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -185,6 +188,7 @@
 | [0402-remove-k-digits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
@@ -249,6 +253,7 @@
 | [0011-container-with-most-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0605-can-place-flowers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -394,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
