@@ -296,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -317,6 +318,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -335,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -362,6 +365,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
