@@ -277,6 +277,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -297,6 +298,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -335,6 +337,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -361,6 +364,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
