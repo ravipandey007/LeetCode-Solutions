@@ -49,6 +49,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1748-sum-of-unique-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -153,6 +154,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -258,6 +260,7 @@
 | [0605-can-place-flowers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
