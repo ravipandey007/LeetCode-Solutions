@@ -198,6 +198,7 @@
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
