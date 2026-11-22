@@ -1,19 +1,10 @@
 class Solution {
     public boolean checkString(String s) {
-        int n = s.length();
-        boolean flag = false;
-
-        for(int i = 0; i < n; i++){
-
-            if(s.charAt(i) == 'a' && flag == true){
-                return false;
-            }
-            if(s.charAt(i) == 'a'){
-                continue;
-            }else{
-                flag = true;
-            }
+        for(int i = 1; i < s.length(); i++){
+        if(s.charAt(i) == 'a' && s.charAt(i-1) == 'b'){
+            return false;
         }
+    }
         return true;
     }
 }
