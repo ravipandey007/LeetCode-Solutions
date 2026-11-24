@@ -1,31 +1,37 @@
 class Solution {
-    public int[] decrypt(int[] arr, int k) {
-        int n = arr.length;
-        int x = 0;
+    public int[] decrypt(int[] code, int k) {
+
+        int n = code.length;
         int[] ans = new int[n];
 
-        if(k == 0){
-            return ans;
-        }
-        int sum;
-        
-        for(int i = 0; i < n; i++) {
-            sum = 0;
-            if(k > 0){
-        for(int j = 0; j < k; j++) {
-            sum += arr[(i + j + 1) % n]; 
-        }
-        ans[i] = sum;
+        if(k == 0) return ans;
+
+        int sum = 0;
+
+        // Calculate initial window
+        for(int j = 1; j <= Math.abs(k); j++) {
+            if(k > 0) {
+                sum += code[j % n];
+            } 
+            else {
+                sum += code[(n - j) % n];
+            }
         }
 
-        if(k < 0){
-            for(int j = 1; j <= Math.abs(k); j++){
-                sum += arr[(i - j + n) % n];
-            }
+        for(int i = 0; i < n; i++) {
+
             ans[i] = sum;
+
+            if(k > 0) {
+                sum -= code[(i + 1) % n];
+                sum += code[(i + k + 1) % n];
+            } 
+            else {
+                sum -= code[(i - Math.abs(k) + n) % n];
+                sum += code[i];
+            }
         }
-    }
+
         return ans;
     }
 }
-//int index = i % n;
