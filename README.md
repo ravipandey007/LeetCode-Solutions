@@ -48,6 +48,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [1652-defuse-the-bomb](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
@@ -252,6 +253,7 @@
 | [0567-permutation-in-string](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ravipandey007/LeetCode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
