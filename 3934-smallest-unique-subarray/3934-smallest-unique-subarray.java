@@ -1,133 +1,73 @@
 class Solution {
+    private static final long MOD = 1_000_000_007L;
 
-    // Build suffix array using doubling
-    private int[] suffixArray(int[] nums) {
-        int n = nums.length;
+    //Binary expentiantion  
+    private long findPower(long a, long exp){
+        if(exp == 0) return 1;
 
-        Integer[] sa = new Integer[n];
-        int[] rank = nums.clone();
-
-        for (int i = 0; i < n; i++) {
-            sa[i] = i;
-        }
-
-        for (int k = 1; k < n; k *= 2) {
-
-            final int len = k;
-            final int[] currentRank = rank;
-
-            Arrays.sort(sa, (a, b) -> {
-                if (currentRank[a] != currentRank[b]) {
-                    return Integer.compare(currentRank[a], currentRank[b]);
-                }
-
-                int ra = (a + len < n) ? currentRank[a + len] : -1;
-                int rb = (b + len < n) ? currentRank[b + len] : -1;
-
-                return Integer.compare(ra, rb);
-            });
-
-            int[] newRank = new int[n];
-            newRank[sa[0]] = 0;
-
-            for (int i = 1; i < n; i++) {
-                int a = sa[i - 1];
-                int b = sa[i];
-
-                int aSecond = (a + k < n) ? rank[a + k] : -1;
-                int bSecond = (b + k < n) ? rank[b + k] : -1;
-
-                if (rank[a] != rank[b] || aSecond != bSecond) {
-                    newRank[b] = newRank[a] + 1;
-                } else {
-                    newRank[b] = newRank[a];
-                }
-            }
-
-            rank = newRank;
-
-            if (rank[sa[n - 1]] == n - 1) {
-                break;
-            }
-        }
-
-        int[] result = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            result[i] = sa[i];
+        long half = findPower(a, exp/2);
+        long result = (half * half) % MOD;
+        if(exp % 2 == 1){
+            result = (result * a) % MOD;
         }
 
         return result;
     }
 
-    // Kasai's algorithm to build LCP array
-    private int[] buildLCP(int[] nums, int[] sa) {
+    private boolean check(int[] nums, int size, long base){
         int n = nums.length;
 
-        int[] rank = new int[n];
-        int[] lcp = new int[n - 1];
+        long hash = 0; 
+        Map<Long, Integer> mp = new HashMap<>();
 
-        for (int i = 0; i < n; i++) {
-            rank[sa[i]] = i;
-        }
+        long p = findPower(base % MOD, size - 1);  //O(log(size))
 
-        int h = 0;
+        int i = 0; 
+        int j = 0;
 
-        for (int i = 0; i < n; i++) {
-            int r = rank[i];
+        while(j < n){   //O(n)
+        hash = (hash * base + nums[j]) % MOD;
 
-            if (r == n - 1) {
-                h = 0;
-                continue;
-            }
+        if(j - i + 1 < size){
+            j++;
+        }else{
+                mp.put(hash, mp.getOrDefault(hash, 0) + 1);
 
-            int j = sa[r + 1];
+                hash = (hash - (p * nums[i]) % MOD + MOD) % MOD;
 
-            while (i + h < n && j + h < n &&
-                   nums[i + h] == nums[j + h]) {
-                h++;
-            }
-
-            lcp[r] = h;
-
-            if (h > 0) {
-                h--;
+                i++;
+                j++;
             }
         }
 
-        return lcp;
+        for(int count : mp.values()){
+            if(count == 1){
+                return true;
+        }
     }
-
+    return false;
+}
     public int smallestUniqueSubarray(int[] nums) {
-        
         int n = nums.length;
+        if(n == 0)  return 0;
 
-        if (n == 1) return 1;
+        long base = Arrays.stream(nums).max().getAsInt() + 1L;
 
-        int[] sa = suffixArray(nums);
-        int[] lcp = buildLCP(nums, sa);
+        int l = 1; 
+        int r = n;
 
-        int[] rank = new int[n];
+        int result = n;
 
-        for (int i = 0; i < n; i++) {
-            rank[sa[i]] = i;
-        }
+        while(l <= r){    //O(log n)
+            int mid = l + (r - l)/2;
 
-        int ans = n;
-
-        for (int start = 0; start < n; start++) {
-            int r = rank[start];
-
-            int leftLCP = (r > 0) ? lcp[r - 1] : 0;
-            int rightLCP = (r < n - 1) ? lcp[r] : 0;
-
-            int requiredLength = Math.max(leftLCP, rightLCP) + 1;
-
-            if (requiredLength <= n - start) {
-                ans = Math.min(ans, requiredLength);
+            if(check(nums, mid, base)){
+                result = mid;
+                r = mid - 1;
+            }else{
+                l = mid + 1;
             }
         }
-
-        return ans;
+        return result;
     }
 }
