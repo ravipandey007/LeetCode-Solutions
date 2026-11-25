@@ -1,4 +1,13 @@
 class Solution {
+
+// Use rolling hash to calculate hashes of subarrays of a fixed length.
+
+// Count how many times each hash appears.
+
+// If any hash appears exactly once, that length is valid.
+
+// Use binary search to find the smallest valid length.
+
     private static final long MOD = 1_000_000_007L;
 
     //Binary expentiantion  
